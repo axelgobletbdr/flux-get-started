@@ -1,0 +1,1 @@
+{"jobID":"df9be51d-b48c-a54e-1ac5-b2aa3e8d1135","spec":{"type":"policy","cause":{"Message":"","User":"Axel Goblet \u003caxel.goblet@bigdatarepublic.nl\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
