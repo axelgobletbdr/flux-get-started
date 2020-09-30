@@ -26,12 +26,6 @@ spec:
       labels:
         app: podinfo
     spec:
-      initContainers:
-      - name: init
-        image: alpine:3.10.1
-        command:
-        - sleep
-        - "1"
       containers:
       - name: podinfod
         image: stefanprodan/podinfo:3.1.0
