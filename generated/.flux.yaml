@@ -2,3 +2,4 @@ version: 1
 patchUpdated:
   generators:
     - command: generate_manifests.sh
+  patchFile: flux-patch.yaml
